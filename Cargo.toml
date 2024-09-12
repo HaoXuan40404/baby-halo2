@@ -1,0 +1,11 @@
+[package]
+name = "baby-halo2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+halo2_gadgets = "0.3"
+halo2_proofs = "0.3"
+ff = "0.13"
+group = "0.13"
+
